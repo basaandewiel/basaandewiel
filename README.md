@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basaandewiel
-- 👀 I’m interested in everything related to software development; especially on embedded devices
+- 👀 I’m interested in everything related to software development, testing and documenting with minimal effort
 - 🌱 I’m currently learning how to use machine learning on embedded devices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bas.aan.de.wiel.at.gmail.com
